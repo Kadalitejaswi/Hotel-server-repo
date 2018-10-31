@@ -1,0 +1,18 @@
+{
+  "name": "hotel--server",
+  "version": "1.0.0",
+  "description": "This is Hotel Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node app1.js",
+    "test": "mocha"
+  },
+  "keywords": [
+    "Thisisserver"
+  ],
+  "author": "Tejaswi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
